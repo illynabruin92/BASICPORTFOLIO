@@ -29,11 +29,11 @@ In this assignment, you will be building a professional portfolio site using HTM
 5. Reference the screenshots for the site located here:
   + What you code must exactly match this layout (excluding minor changes like replacing "your name" with your actual name and writing your own unique bio, etc). The design itself must match the screenshots. The specs are located below.
   
-  + ![Portfolio About](Images/Portfolio_About.png)
+  + ![Portfolio About](readmeimgs/Portfolio_About.png)
 
-  + ![Portfolio Contact](Images/Portfolio_Contact.png)
+  + ![Portfolio Contact](readmeimgs/Portfolio_Contact.png)
 
-  + ![Portfolio Gallery](Images/Portfolio_Gallery.png)
+  + ![Portfolio Gallery](readmeimgs/Portfolio_Gallery.png)
 
 6. Begin coding the site one page at a time by writing the html code semantically (meaning if something is a heading, you use a heading tag. If something is a list, you use an unordered or ordered list tag, etc.). DO NOT start the CSS styling yet. CSS should come after your html code is finished. 
   + The content for the `index.html` should be unique to YOU. Write a paragraph or two about yourself. Make it fun, show your personality!
@@ -81,8 +81,8 @@ In this assignment, you will be building a professional portfolio site using HTM
 1. Make the pages more sophisticated by adding styling to text links, image links, and buttons when the mouse hovers over them. A CSS hover tutorial can be found [here](http://www.codeitpretty.com/2013/06/how-to-use-css-hover-effects.html). You can use [Adobe Kuler](https://color.adobe.com/create/color-wheel/) to find colors that match the theme (In this case, the primary color is Teal `#4aaaa5`).
 
 2. Make a 'sticky footer'. You will notice the dark grey footer will always rest just below the content. This is fine when the content is long, but if there isn't much content in the body the footer could rest in the middle of the page. Try to code the footer in a way that it will always remain at the bottom of the page, no matter how short the content is. A sticky footer tutorial can be found [here](http://ryanfait.com/html5-sticky-footer/). Please note, I am not talking about positioning the footer as "fixed" to the browser. See screenshots examples:
-  + ![No sticky footer](Images/bonus_nosticky.jpg)
-  + ![Has sticky footer](Images/bonus_stickyfooter.jpg)
+  + ![No sticky footer](readmeimgs/bonus_nosticky.jpg)
+  + ![Has sticky footer](readmeimgs/bonus_stickyfooter.jpg)
 
 ### Helpful Hints:
 * Be sure to consult the GitHub Supplemental Guide sent to you in class when interfacing with GitHub.
